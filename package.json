@@ -1,6 +1,6 @@
 {
   "name": "bourbon-neat",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "A lightweight, semantic grid framework",
   "keywords": [
     "columns",
@@ -33,7 +33,7 @@
     "test": "echo \"No test specified\""
   },
   "dependencies": {
-    "node-sass": "^4.1.1"
+    "node-sass": "npm:sass@^1.49.9"
   },
   "devDependencies": {
     "gulp": "^3.9",

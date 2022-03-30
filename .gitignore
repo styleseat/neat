@@ -7,3 +7,5 @@ public
 tmp
 contrib/*.css
 node_modules
+.idea/vcs.xml
+.idea/
