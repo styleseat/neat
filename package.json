@@ -35,12 +35,6 @@
   "dependencies": {
     "node-sass": "npm:sass@^1.49.9"
   },
-  "devDependencies": {
-    "gulp": "^3.9",
-    "gulp-autoprefixer": "^3.1",
-    "gulp-connect": "^2.3",
-    "gulp-sass": "^2.2"
-  },
   "eyeglass": {
     "name": "neat",
     "needs": "*",
